@@ -1,3 +1,6 @@
+[![Build status](https://dev.azure.com/patros/OpenSource/_apis/build/status/docker-binskim)](https://dev.azure.com/patros/OpenSource/_build/latest?definitionId=24)
+![Docker Pulls](https://img.shields.io/docker/pulls/coderpatros/binskim.svg)
+
 BinSkim Docker Container
 ========================
 
