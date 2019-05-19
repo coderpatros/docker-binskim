@@ -16,6 +16,11 @@ Running (assuming binaries are in the current working directory)...
 
     docker run --user `id --user`:`id --user` --volume `pwd`:/code coderpatros/binskim analyze /code/*.dll --recurse --output /code/binskim.sarif
 
+More Documentation
+------------------
+
+Please refer to the [official repository](https://github.com/microsoft/binskim) for more documentation.
+
 Docker Tags
 -----------
 
