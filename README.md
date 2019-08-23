@@ -1,5 +1,6 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/coderpatros/binskim)
 ![Docker Pulls](https://img.shields.io/docker/pulls/coderpatros/binskim.svg)
+[![](https://images.microbadger.com/badges/image/coderpatros/binskim.svg)](https://microbadger.com/images/coderpatros/binskim "Get your own image badge on microbadger.com")
 ![GitHub](https://img.shields.io/github/license/patros/docker-binskim)
 
 BinSkim Docker Container
